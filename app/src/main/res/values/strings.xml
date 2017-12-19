@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HabitTrainer</string>
+    <string name="drink_water">Drink water</string>
 </resources>
