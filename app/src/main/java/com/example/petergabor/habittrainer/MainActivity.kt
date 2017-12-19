@@ -1,7 +1,7 @@
 package com.example.petergabor.habittrainer
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         tv_title.text = getString(R.string.drink_water)
         tv_description.text = "A refreshin glass of water gets you hydrated"
 
+        // synchroned?
 
     }
 
